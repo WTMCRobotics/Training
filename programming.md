@@ -46,15 +46,17 @@ TODO: find online java course that doesnt suck
 - A Heavy
 
 # Anonymous trial student's lecture
-Amazing lectures
-Paricipation matters
-Inspirational
-Hilarious
-Lectures and questions
+Amazing lectures,
+Paricipation matters,
+Inspirational,
+Hilarious,
+Lectures and questions,
 Humorous
+
 Went over a lot
 - Variables
 - Conditionals
 - Functions
 - Classes
-Refused to work
+
+Person refused to work
