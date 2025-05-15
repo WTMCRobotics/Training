@@ -35,6 +35,7 @@ TODO: find online java course that doesnt suck
 - mooc.fi's Java course
     - College course
     - Starts from 0 experience
+- https://www.youtube.com/watch?v=RRubcjpTkks
 - Make our own???
 
 # Materials
