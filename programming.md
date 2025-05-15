@@ -53,8 +53,8 @@ Hilarious
 Lectures and questions
 Humorous
 Went over a lot
-    - Variables
-    - Conditionals
-    - Functions
-    - Classes
+- Variables
+- Conditionals
+- Functions
+- Classes
 Refused to work
