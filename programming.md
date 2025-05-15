@@ -44,3 +44,17 @@ TODO: find online java course that doesnt suck
 - Xbox controllers
 - Giant face on a stick
 - A Heavy
+
+# Anonymous trial student's lecture
+Amazing lectures
+Paricipation matters
+Inspirational
+Hilarious
+Lectures and questions
+Humorous
+Went over a lot
+    - Variables
+    - Conditionals
+    - Functions
+    - Classes
+Refused to work
