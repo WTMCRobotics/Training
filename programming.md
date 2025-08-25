@@ -17,6 +17,7 @@ TODO: find online java course that doesnt suck
 
 - Variables
     - Types
+- Operands & conditionals
 - Standard library
     - SYSOUTS!!!!! :D
 - Functions
